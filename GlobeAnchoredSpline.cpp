@@ -1,4 +1,4 @@
-#include "Actors/GlobeAnchoredSpline.h"
+#include "GlobeAnchoredSpline.h"
 
 AGlobeAnchoredSpline::AGlobeAnchoredSpline(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer)
 {
